@@ -39,6 +39,7 @@ A little about myself:
   <img align="center" alt="Anaconda" height="auto" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
   <img align="center" alt="Pytorch" height="auto" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
   <img align="center" alt="Pytorch" height="auto" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
+  <img align="center" alt="Latex" height="auto" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
   <!-- <img align="center" alt="Numpy" height="auto" width="36" src="https://numpy.org/images/logo.svg"> --> 
   <!-- <img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"> -->      
 </div>
