@@ -36,7 +36,6 @@ A little about myself:
   <img align="center" alt="Figma" height="30" width="35" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png">
   <img align="center" alt="Websocket" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png">
   <img align="center" alt="Numpy" height="30" width="40" src="https://numpy.org/images/logo.svg">
-  <img align="center" alt="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
   <img align="center" alt="Pytorch" height="auto" width="120" src="https://github.com/pytorch/pytorch/blob/main/docs/source/_static/img/pytorch-logo-dark.svg">
           
 </div>
