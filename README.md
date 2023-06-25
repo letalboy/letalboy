@@ -38,7 +38,8 @@ A little about myself:
   <img align="center" alt="Websocket" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png">
   <img align="center" alt="Anaconda" height="auto" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
   <img align="center" alt="Pytorch" height="auto" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
-  <!--<img align="center" alt="Numpy" height="30" width="40" src="https://numpy.org/images/logo.svg"> -->
-  <img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">         
+  <img align="center" alt="Pytorch" height="auto" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
+  <!-- <img align="center" alt="Numpy" height="auto" width="36" src="https://numpy.org/images/logo.svg"> --> 
+  <!-- <img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"> -->      
 </div>
 
