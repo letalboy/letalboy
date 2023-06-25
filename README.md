@@ -30,13 +30,15 @@ A little about myself:
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Postgrees" height="30" width="40" src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL">
-  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="PostgreSQL">        
   <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL">
-  <img align="center" alt="Docker" height="35" width="40" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png">
-  <img align="center" alt="Figma" height="30" width="35" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png">
+  <img align="center" alt="SQLite" height="auto" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
+  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="PostgreSQL">        
+  <img align="center" alt="Docker" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">        
+  <img align="center" alt="Figma" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Websocket" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png">
+  <img align="center" alt="Anaconda" height="auto" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
+  <img align="center" alt="Pytorch" height="auto" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
   <img align="center" alt="Numpy" height="30" width="40" src="https://numpy.org/images/logo.svg">
-  <img align="center" alt="Pytorch" height="auto" width="120" src="https://github.com/pytorch/pytorch/blob/main/docs/source/_static/img/pytorch-logo-dark.svg">
-          
+  <img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">         
 </div>
 
