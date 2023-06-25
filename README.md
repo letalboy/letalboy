@@ -41,5 +41,3 @@ A little about myself:
           
 </div>
 
-![Snake animation] (https://github.com/letalboy/blob/output/github-contibution-grid-snake.svg)
-
