@@ -19,7 +19,7 @@ A little about myself:
 <!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letalboy&hide_progress=false) -->
 
 # Technologies:
-<div style="display: inline_block"><br>
+<div style="display: flex; justufy-content:center; align-itens:center; flex-direction: row;"><br>
   <img align="center" alt="Python" height="30" width="40" style="filter: invert(0%);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rust" height=auto width="35" src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png">
@@ -40,6 +40,7 @@ A little about myself:
   <img align="center" alt="Anaconda" height="auto" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
   <img align="center" alt="Pytorch" height="auto" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
   <img align="center" alt="Pytorch" height="auto" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
+  <img align="center" alt="Pytorch" height="auto" width="30" src="https://avatars.githubusercontent.com/u/28156855?s=200&v=4">
   <!-- <img align="center" alt="Numpy" height="auto" width="36" src="https://numpy.org/images/logo.svg"> --> 
   <!-- <img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"> -->      
 </div>
