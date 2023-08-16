@@ -11,7 +11,7 @@
 A little about myself:
 
 - 🔭 Working on personal back-end and front-end projects
-- 🌱 Studying Rust, Machine Leaning & Data Science
+- 📚 Studying Rust, Machine Leaning & Data Science
 
 <br>
 
