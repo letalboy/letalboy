@@ -30,7 +30,6 @@ A little about myself:
   <img align="center" alt="Apache" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" />
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
   <img align="center" alt="Latex" height="auto" width="55" class="inverted" src="https://cdn.freebiesupply.com/logos/large/2x/latex-1-logo-black-and-white.png">
   <img align="center" alt="Postgrees" height="30" width="40" src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL">
   <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL">
