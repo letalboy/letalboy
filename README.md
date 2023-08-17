@@ -18,6 +18,10 @@ A little about myself:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=letalboy&show_icons=true&theme=transparent)
 <!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letalboy&hide_progress=false) -->
 
+img.inverted {
+    filter: invert(1);
+}
+
 # Technologies:
 <div style="display: flex; justufy-content:center; align-itens:center; flex-direction: row;">
   <img align="center" alt="Python" height="30" width="40" style="filter: invert(0%);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -29,7 +33,7 @@ A little about myself:
   <img align="center" alt="Apache" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" />
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Latex" height="auto" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
+  <img align="center" alt="Latex" height="auto" width="55" class="inverted" src="https://cdn.freebiesupply.com/logos/large/2x/latex-1-logo-png-transparent.png">
   <img align="center" alt="Postgrees" height="30" width="40" src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL">
   <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL">
   <img align="center" alt="SQLite" height="auto" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
