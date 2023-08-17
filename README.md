@@ -23,7 +23,7 @@ A little about myself:
 <div style="display: flex; justufy-content:center; align-itens:center; flex-direction: row;">
   <img align="center" alt="Python" height="30" width="40" style="filter: invert(0%);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rust" height=auto width="35"src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png">
+  <img align="center" alt="Rust" height=auto width="35"src="https://www.rust-lang.org/logos/rust-logo-512x512.png">
   <img align="center" alt="Django" height="30" width="40" src="https://github.com/get-icon/geticon/raw/master/icons/django.svg" alt="Svelte">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Svelte" height="30" width="40" src="https://github.com/get-icon/geticon/raw/master/icons/svelte-icon.svg" alt="Svelte">
