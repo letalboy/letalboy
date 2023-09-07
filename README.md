@@ -11,7 +11,9 @@
 A little about myself:
 
 - 🔭 Working on personal back-end and front-end projects
-- 📚 Studying Rust, Machine Leaning & Data Science
+- 📚 Machine Leaning & Data Science
+- ⚙️ Rustacean & Pythonist
+- 📑 Python library developer & mainteiner
 
 <br>
 
